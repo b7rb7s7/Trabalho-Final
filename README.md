@@ -27,9 +27,10 @@ visualizar as atividades em que eles ministrarão.
 
 ## Tecnologias e frameworks utilizados
 
-** Front end **
+**Front end**
 - Vue.js
-** Backend **
+
+**Backend**
 
 - Strapi
 
